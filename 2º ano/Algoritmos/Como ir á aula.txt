@@ -1,0 +1,18 @@
+Algoritmo "Como ir á aula"
+
+variaveis despertador, escova, material, mochila, transporte, café da manhã
+
+Inicio //Como ir
+
+  Acordar("e desligue o despertador")
+  Escovar("os dentes e se arrume")
+  Conferir("os materiais necessários")
+  Tomar("café da manhã")
+  Ir("pegar o transporte")
+  Chegar("na escola")
+  Prestar("atenção na aula")
+  Aguardar("a hora de ir embora")
+  
+  
+  Fim
+  

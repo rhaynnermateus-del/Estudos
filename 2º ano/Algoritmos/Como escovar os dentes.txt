@@ -1,0 +1,15 @@
+Algoritmo "Como escovar os dentes"
+
+variaveis escova, creme dental, água, pia
+
+
+Inicio//Como escovar
+  Pegar("a escova e coloque o creme dental")
+  Escovar("de forma adequada")
+  Escovar("deixando os dentes bem limpo")
+  Escovar("a língua suavemente")
+  Enxaguar("a boca com a água")
+  Guardar("a escova e limpar a pia")
+  
+  Fim
+  

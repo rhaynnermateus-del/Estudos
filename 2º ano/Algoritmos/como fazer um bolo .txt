@@ -1,0 +1,18 @@
+Algoritmo Como fazerum bolo
+
+variaveis farinha, açúcar, ovos, leite, fermento//Ingredientes 
+
+
+Inicio //Como fazer 
+
+    préaquecer("forno a 180c")
+	misturar ("ingredientes secos na panela")
+	adicionar("ingredientes liquidos")
+	misturar("até virar uma massa homogênea")
+	despejar("massa na forma")
+	levar("ao forno por 180c")
+	verificar("com o palito")
+	retirar("o bolo do forno")
+	esperar("o bolo esfriar")
+	
+	Fim
